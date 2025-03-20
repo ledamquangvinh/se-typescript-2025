@@ -1,0 +1,9 @@
+{
+    "name": "session_01_basic",
+    "version": "1.0.0",
+    "scripts": {
+        "build": "tsc && node bin/*.js"
+    },
+    "license": "MIT"
+
+}
