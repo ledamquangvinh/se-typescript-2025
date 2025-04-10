@@ -23,4 +23,4 @@ let sentence = "Hello, my name is " +
     (age + 1) +
     " years old next month.";
 console.log(`Sentencd = ${sentence} - ${typeof (sentence)}`);
-//# sourceMappingURL=lab01_syntax_data_type.js.map
+//# sourceMappingURL=lab01.syntax.data_type.js.map
