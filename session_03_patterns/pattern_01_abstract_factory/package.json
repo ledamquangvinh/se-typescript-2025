@@ -1,8 +1,0 @@
-{
-    "name": "session_01_basic",
-    "version": "1.0.0",
-    "scripts": {
-        "build": "./build.sh"
-    },
-    "license": "MIT"
-}
